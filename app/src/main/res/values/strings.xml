@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+
+    <string-array name="makanan">
+        <item>Soto</item>
+        <item>Ketoprak</item>
+        <item>Baso</item>
+        <item>Sate</item>
+        <item>Sayur Sop</item>
+        <item>Gado-gado</item>
+        <item>Mie Goreng</item>
+        <item>Tempe</item>
+        <item>Tahu</item>
+        <item>Rendang</item>
+        <item>Pempek</item>
+    </string-array>
+</resources>
